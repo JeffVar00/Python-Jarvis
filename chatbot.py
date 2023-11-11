@@ -1,5 +1,5 @@
 from speak_modules.speech_to_text import SpeechToText 
-from chatbot_logic.openai import send_to_chatbot
+from chatbot_logic.openai_bot import send_to_chatbot
 from chatbot_logic.chatbot import load_knowledge_base, find_best_match, get_answer, save_knowledge_base
 
 def main_chatbot():

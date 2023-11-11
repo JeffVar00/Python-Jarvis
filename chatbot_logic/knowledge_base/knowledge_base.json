@@ -1,6 +1,14 @@
 {
   "questions": [
     {
+      "question": "What is my dogs name?",
+      "answer": "You dog's name is Sunny."
+    },
+    {
+      "question": "Where I could find the best tacos in town?",
+      "answer": "Alajuela has the best tacos in town."
+    },
+    {
       "question": "Hi",
       "answer": "Hi mate!"
     },
