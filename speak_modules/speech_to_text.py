@@ -1,7 +1,6 @@
 import speech_recognition as sr
 import pyttsx3
 
-
 # jarvis library for speech recognition, needed for the speech recognition personalization, fakeU library
 # speech to text functionality from https://www.youtube.com/watch?v=LEDpgye3bf4&t=0s&ab_channel=CSCoach
 
